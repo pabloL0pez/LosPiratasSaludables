@@ -1,5 +1,5 @@
 # LosPiratasSaludables
-Ejercicio de la clase del 23/09 de Patrones de Diseño
+Ejercicio de la clase del 23/09 del taller de Prog. Avanzada. Tema: Patrones de Diseño.
 
 ## Descripción:
 Los piratas deciden comenzar una pelea (de a mentira) que es por puntos. Los piratas se atacan entre si. Cuando un pirata ataca a otro
