@@ -17,9 +17,15 @@ public class Escorbuto extends Estado {
 	}
 
 	@Override
-	public void setAtributosPirata(Pirata pirata) {
-		pirata.setAtaque(2);
-		pirata.setDefensa(0);
+	public int setAtaque() {
+		return 2;
 	}
+
+	@Override
+	public int setDefensa() {
+		return 0;
+	}
+	
+	
 	
 }

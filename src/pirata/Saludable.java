@@ -24,8 +24,15 @@ public class Saludable extends Estado {
 		}
 		return this;
 	}
-	public void setAtributosPirata(Pirata pirata) {
-		pirata.setAtaque(5);
-		pirata.setDefensa(2);
+	
+	@Override
+	public int setAtaque() {
+		return 5;
 	}
+
+	@Override
+	public int setDefensa() {
+		return 2;
+	}
+	
 }
